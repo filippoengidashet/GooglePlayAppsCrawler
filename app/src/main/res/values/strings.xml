@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Crawler</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="okay">OK</string>
+    <string name="allAppLink"><a href="https://play.google.com/store/apps/developer?id=Filippo+Engidashet"> > See all Apps</a></string>
+</resources>

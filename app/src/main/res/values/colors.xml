@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3398db</color>
+    <color name="appBG">#c9c9c9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="okBg">#01d48f</color>
+
+</resources>
